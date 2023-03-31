@@ -20,3 +20,4 @@ mvn clean compile exec:java
 
 ## Trouble-shooting ##
 - https://groups.google.com/forum/#!forum/bluecove-users
+# java-example
